@@ -42,8 +42,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_desc: YouStory is a platform to share stories of different categories, Your Stories. The App not only provides the writers the ability to share their unique stories and become a star but also delivers a great opportunity for readers to get into a world of different realities - starting from Horror and Mystery ending with Comedy and Romance.
 
 #
 # Social Links
