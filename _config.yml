@@ -17,7 +17,7 @@ app:
   # e.g. images/app-icon-512.png
   # 512px or greater, square
 
-  #favicon: # uncomment if uploading own favicon
+  favicon: icon_60pt@3x.png
   # To update use path relative to project root with no leading slash:
   # e.g. images/app-favicon.png - can be .ico or .png
   # 16px or greater, square
@@ -55,7 +55,7 @@ social-links:
   twitter:
   pinterest:
   instagram:
-  email:
+  email: support@youstory.io
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
